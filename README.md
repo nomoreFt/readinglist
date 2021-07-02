@@ -301,3 +301,7 @@ size : 총 개수
 current : 현재 index의 변수
 event/odd : 짝수/홀수 여부
 first/last : 처음/마지막 여부
+
+
+![image](https://user-images.githubusercontent.com/37995817/124255085-bc761580-db64-11eb-9472-bee69d833361.png)
+
